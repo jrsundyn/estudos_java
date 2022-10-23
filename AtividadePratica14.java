@@ -19,8 +19,8 @@ import javax.swing.*;
 		   
 		   //SAIDA DE DADOS
 		   
-		   msg = msg + "quociente da divisao de " + n1 + " por " + n2 + " = " + div + "\n";
-		   msg = msg + "o numero " + n1 + " elevado a " + n2 + " potencia é = " + pot + "\n";
+		   msg = msg + "quociente da divisão de " + n1 + " por " + n2 + " = " + div + "\n";
+		   msg = msg + "o número " + n1 + " elevado a " + n2 + " potência é = " + pot + "\n";
 		   JOptionPane.showMessageDialog(null, msg);
 		   
 		   System.exit(0);
